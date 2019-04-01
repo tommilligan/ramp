@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["DivRem","A trait for types which can compute division and remainder in one step."],["Integer",""]]});
